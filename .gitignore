@@ -46,4 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.ipynb_checkpoints/
+tmp/
 *.pkl
